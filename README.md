@@ -14,3 +14,7 @@ d-----         2026/1/18     13:01                cmake-build-debug-mingw
 d-----         2026/1/18     12:48                nxp-demo                                                                                                         
 -a----         2026/1/18     13:01           1280 CMakeLists.txt
 ```  
+# 吐槽
+NXP Gui Guider自己的代码编辑器实在是太难用了，几乎没有代码检查和代码提示，就连代码整理也没有，对于刚入门c/c++的新手非常不友好。</br>
+官方似乎没有优化的意思。</br>
+但是还是非常感谢NXP Gui Guider提供了好用的GUI LVGL设计器！</br>
